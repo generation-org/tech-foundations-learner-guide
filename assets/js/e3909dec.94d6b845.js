@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_foundations=self.webpackChunktech_foundations||[]).push([[929],{9721:function(s){s.exports={blogPosts:[]}}}]);
