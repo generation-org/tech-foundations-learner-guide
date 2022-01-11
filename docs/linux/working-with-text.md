@@ -15,6 +15,11 @@ sidebar_position: 4
 * Define what Regular Expressions are
 * Edit text files with Vim
 
+### Key Points
+
+* A command line program called less allows one to scroll and read through text files
+* Regular expressions are a language for writing patterns of text
+
 ## Breakdown
 
 ### Less
